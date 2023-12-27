@@ -1,0 +1,556 @@
+body {
+    background-color: #f0eeea;
+   
+     
+}
+
+.log-box img {
+
+
+    padding: 11px 148px;
+    width: 146px;
+    height: 56px;
+    margin-top: 0px;
+    border-radius: 110%;
+
+}
+
+.menu_area {
+    display: flex;
+    position: sticky;
+    top: 0;
+    margin-left: 74%;
+}
+
+.menu_area ol {
+    display: flex;
+    padding: 10px 12px;
+    text-decoration: none;
+    justify-content: space-between;
+    margin-top: -60px;
+}
+
+.menu_area ol li {
+    display: flex;
+    padding-right: 20px;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.menu_area ol li a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(10, 1, 1);
+}
+
+.menu_area ol li a:hover {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(239, 13, 111, 0.74);
+}
+
+.buss {
+    color: crimson;
+}
+
+.About-me h1 {
+    font-size: 45px;
+    font-weight: bold;
+    color: black;
+}
+
+
+.about-box {
+    display: flex;
+
+}
+
+.Leadin{
+    background-color: rgb(246, 231, 231);
+}
+
+.about-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #F6FDFF;
+}
+
+.About-me {
+    margin-top: 150px;
+}
+
+.about-box img {
+    width: 505px;
+    height: 474px;
+    margin-left: 250px;
+    margin-top: 160px;
+}
+
+.pro {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: -69px;
+
+}
+
+.professional {
+    padding: 10px;
+    width: 113px;
+    height: 67px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    color: red;
+
+
+}
+
+.professional:hover {
+    background-color: cyan;
+    color: black;
+}
+
+
+.About-me h3 {
+    font-size: 15px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+
+.solution img {
+    width: 100px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+
+.taxx-box h1 {
+    font-size: 45px;
+    color: black;
+    font-family: fantasy;
+    font-weight: bold;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 120px;
+    margin-bottom: 0px;
+}
+
+.Providion {
+    background-color: #F6FDFF;
+}
+
+.solution {
+    padding: 10px;
+    width: 400px;
+    height: 303px;
+    margin: 8px;
+    margin-left: 8px;
+    text-shadow: 2px 2px 10px rgba(225, 4, 4, 0.05);
+    background-color: rgb(239, 239, 247);
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+    margin-left: 90px;
+}
+
+.Providion {
+    background-color: rgb(248, 240, 240);
+}
+
+.Leadin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #F6FDFF;
+}
+
+
+  
+
+.IT-img img {
+   
+
+    width: 300px;
+    height: 280px;
+    margin-top: 282px;
+    margin-left: 481px 
+}
+
+.it-sct {
+    margin-top: 180px;
+
+}
+
+.it-sct h1 {
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    font-family: Impact,
+}
+
+.it-sct p {
+    color: #ee1010;
+    font-size: 19px;
+    font-family: unset;
+}
+
+.it-sct h3 {
+    font-size: 25px;
+    color: black;
+
+}
+
+.it-sct button {
+    width: 121px;
+    height: 31px;
+    color: rgb(250, 246, 246);
+    background-color: #ee1010;
+    font-size: 13px;
+    border-radius: 19px;
+}
+
+.it-sct button:hover {
+    color: black;
+    background-color: hotpink;
+}
+
+
+.Achievemwnt {
+    display: flex;
+
+
+}
+
+.see-C {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+
+.Our {
+    padding: 10px;
+    width: 190px;
+    height: -18px;
+    margin: 8px;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-left: 8px;
+    text-shadow: 2px 2px 10px rgba(225, 4, 4, 0.05);
+    background-color: rgb(181, 165, 165);
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+    margin-left: 62px;
+    margin-top: 100px;
+}
+
+.Walid {
+
+    margin-left: 246px;
+    margin-top: 200px;
+}
+
+
+.Walid button {
+    width: 121px;
+    height: 31px;
+    color: rgb(250, 246, 246);
+    background-color: rgb(44, 220, 9);
+    font-size: 13px;
+    border-radius: 19px;
+}
+
+.Walid button:hover {
+    color: black;
+    background-color: rgb(220, 9, 111);
+}
+
+.Walid h1 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.Walid p {
+    font-size: 18px;
+    color: #ee1010;
+
+}
+
+.Walid h4 {
+    font-size: 27px;
+    font-family: Verdana, Tahoma, sans-serif;
+
+}
+
+
+.mov-img img {
+    width: 508px;
+    height: 512px;
+    margin-left: -80px;
+    margin-top: 226px;
+}
+
+
+
+
+.Moving {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+
+.mov-box {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 150px;
+}
+
+
+.moving-box h1 {
+    margin-top: 10px;
+    margin-left: 200px;
+    font-size: 45px;
+}
+
+.moving-box p {
+    margin-left: 200px;
+    font-size: 18px;
+    color: fuchsia;
+    font-family: sans-serif;
+}
+
+
+.modern {
+
+    padding: 0px;
+    width: 340px;
+    height: 191px;
+    margin: 4px;
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-left: 8px;
+    border-width: 2px;
+    border-style: solid;
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+    margin-left: 8px;
+    margin-top: 13px;
+
+}
+
+.modern img {
+    width: 120px;
+    height: 80px;
+}
+
+
+.mov-box p {
+    font-size: 10px;
+    margin-right: -10px;
+    margin-left: -4px;
+    color: black;
+}
+
+
+.Moving {
+    background-image: url("first\ bg.avif")
+}
+
+
+
+
+.about img {
+
+    width: 450px;
+    height: 400px;
+    margin-left: -214px;
+}
+
+
+.people h2 {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-family: Impact'Arial Narrow Bold', sans-serif;
+
+
+}
+
+.people {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Abuttaxt {
+    padding: 0px;
+    width: 643px;
+    height: 124px;
+    margin: 4px;
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-left: 8px;
+    border-width: 2px;
+    border-style: solid;
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+    margin-left: 8px;
+    margin-top: 107px;
+    background-color: #f0eeea;
+}
+
+h6 {
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.Any img {
+
+    width: 64px;
+    height: 38px
+    
+}
+
+
+
+.cantac {
+    display: grid;
+    width: 638px;
+    height: 240px;
+    align-items: center;
+    color: rgb(11, 11, 11);
+  
+    border-radius: 20px;
+    margin-bottom: 47px;
+    text-align: center;
+    margin-left: 227px;
+    margin-top: 204px;
+
+}
+
+
+.Have {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  var(--white, #FFF); 
+}
+
+
+.min h1 {
+    font-size: 45px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 344px;
+}
+
+.Any p {
+  margin-left: 77px;
+  margin-top: -22px;
+  font-size: 15px;
+  color: red;
+  font-weight: bold;
+}
+
+
+.Latest img {
+    width: 338px;
+    height: 318px;
+  
+}
+
+.Latest img:hover{
+    opacity: 0.5;
+}
+
+
+
+
+.Blog{
+    display: grid;
+    grid-template-columns: auto  auto  auto ;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 225px;
+    background-color:  #F6FDFF;
+}
+
+
+ h5{
+    font-size: 40px;
+    color: rgb(9, 9, 9);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans',;
+    margin: 0;
+    margin-top: 135px
+}
+
+
+
+
+.footer {
+    background-color: black;
+    width: 100%; 
+    height: 230px;    
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+}
+
+
+.Q-Walid {
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 757px;
+   
+}
+
+
+.H-Walid {
+
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+ 
+}    
+
+.Q-Walid ol>li{
+    list-style-type: none;  
+}
+
+.H-Walid ol>li{
+    list-style-type: none; 
+} 
+
+
+.f-img img{
+ height: 102px; 
+}
